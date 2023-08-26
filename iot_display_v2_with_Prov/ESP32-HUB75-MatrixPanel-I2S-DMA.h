@@ -100,7 +100,7 @@
     #define E_PIN_DEFAULT   -1 // IMPORTANT: Change to a valid pin if using a 64x64px panel.
               
     #define LAT_PIN_DEFAULT 4
-    #define OE_PIN_DEFAULT  15
+    #define OE_PIN_DEFAULT  33
     #define CLK_PIN_DEFAULT 16
     
 #endif  
